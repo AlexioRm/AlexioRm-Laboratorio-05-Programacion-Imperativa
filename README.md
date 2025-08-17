@@ -1,1 +1,1 @@
-# AlexioRm-Laboratorio-05-Programacion-Imperativa
+#Laboratorio-05-Programacion-Imperativa
